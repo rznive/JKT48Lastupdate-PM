@@ -1,4 +1,4 @@
-| Member | Image Messages | Audio Messages | Text Messages | Last Update |
+| Nama Member | Image Messages | Audio Messages | Text Messages | Last Update |
 | ------ | -------------- | -------------- | ------------- | ------------ |
 | Adel | 117 | 0 | 219 | 17/05/2024, 18:37:15 |
 | Alya | 608 | 13 | 1228 | 17/05/2024, 14:45:10 |
